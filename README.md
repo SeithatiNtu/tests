@@ -1,2 +1,2 @@
-# tests
-all machine learning tests that i have writen. regressions and classification
+# Explore Data Science Academy tests
+all machine learning tests that i have writen and passed.
